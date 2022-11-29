@@ -1,0 +1,31 @@
+.container {
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+button {
+  height: 40px;
+  width: 250px;
+  margin: 1em;
+  border-radius: 1em;
+  font-size: 20px;
+}
+.titulo {
+  font-size: 60px;
+  letter-spacing: 10px;
+}
+.pMenor {
+  color: red;
+}
+.pMayor {
+  color: rgb(0, 255, 8);
+}

@@ -1,0 +1,16 @@
+.container {
+  border: solid black;
+  background-color: yellow;
+  height: 900px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 25px;
+}
